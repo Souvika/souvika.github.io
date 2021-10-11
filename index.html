@@ -41,31 +41,50 @@
     <div class="row">
       <nav class="nav" role="navigation">
         <ul class="nav__items">
-          <li class="nav__item"><a href="#work" class="nav__link">Experience</a></li>
-          <li class="nav__item"><a href="projects" class="nav__link">Projects</a></li>
-		  <li class="nav__item"><a href="" class="nav__link">Publications</a></li>
-          <li class="nav__item"><a href="" class="nav__link">Hobbies</a></li>
-          <li class="nav__item"><a href="#about" class="nav__link">About</a></li>
+          <li class="nav__item"><a href="#experience" class="nav__link">Experience</a></li>
+          <li class="nav__item"><a href="#projects" class="nav__link">Research</a></li>
+		  <li class="nav__item"><a href="#publications" class="nav__link">Publications</a></li>
+          <li class="nav__item"><a href="#contact" class="nav__link">Contact</a></li>
         </ul>
       </nav>
     </div>
-    <div class="header__text-box row">
-      <div class="header__text">
-        <h1 class="heading-primary">
-          <!-- Replace the following name with your name -->
-          <span>Souvika Sarkar</span>
-        </h1>
-        <!-- Put a small paragraph about yourself -->
-        <p>A Grad Student.</p>
-      </div>
-    </div>
   </header>
+  <section class="work" id="about">
+    <div class="header__text-box row">
+      <h1 class="heading-primary">
+        <!-- Replace the following name with your name -->
+        <span>Souvika Sarkar</span>
+      </h1>
+
+        <div class="about__content">
+          <div class="about__text">
+            <!-- Replace the below paragraph with info about yourself -->
+
+            <p>
+              I am a grad student majoring in Computer Science and Software Engineering
+              at Auburn University under supervision of  <a href="https://karmake2.github.io/">Dr. Shubhra Kanti Karmaker (Santu).</a>
+              I am interested in Natural Language Processing, Information Retrieval and Data Mining.
+              Prior to attending Auburn University, I graduated from Jadavpur University in
+              Software Engineering under guidance of <a href="http://www.jaduniv.edu.in/profile.php?uid=1060"> Prof. Utpal Ray.</a> Other than my research interest
+              I love travelling, cooking, reading and playing board games.
+            </p>
+            <!-- Provide a link to your resume -->
+            <a href="mailto:souvikasarkar@gmail.com" class="btn">souvikasarkar@gmail.com</a>
+          </div>
+
+          <div class="about__photo-container">
+            <!-- Add a nice photo of yourself -->
+            <img class="about__photo" src="./images/souvika-profile.jpg" alt="" />
+          </div>
+        </div>
+    </div>
+  </section>
 
   <main role="main">
 
-    <!-- ***** Work ***** -->
+    <!-- ***** Experience ***** -->
 
-    <section class="work" id="work">
+    <section class="work" id="experience">
       <div class="row">
         <h2>Experience</h2>
         <div class="work__boxes">
@@ -74,15 +93,91 @@
 
           <div class="work__box">
             <div class="work__text">
-              <h3>Portfolio Template</h3>
+              <h3>Research Assistant</h3>
               <p>
-                A free Open Source Portfolio for anyone to use for free.
+                Auburn University, May 2020 -- Ongoing, Auburn, AL.
               </p>
               <ul class="work__list">
-                <li>HTML</li>
-                <li>SCSS</li>
-                <li>JavaScript</li>
-                <li>Parcel</li>
+                <li>Research Assistant at Big Data Intelligence Lab.</li>
+              </ul>
+              <h3>Teaching Assistant</h3>
+              <p>
+                Auburn University, Aug 2019 -- Ongoing, Auburn, AL.
+              </p>
+              <ul class="work__list">
+                <li>Teaching Assistant for course Natural Language Processing (Graduate level) course.</li>
+                <li>Teaching Assistant for course Information Retrieval (Graduate level) course.</li>
+                <li>Teaching Assistant for course COMP 1000 From Aug 2019 to April 2020</li>
+              </ul>
+              <h3>IT Analyst</h3>
+              <p>
+                Tata Consultancy Services (Kingfisher), 2018 -- 2018, Kolkata, India.
+              </p>
+              <ul class="work__list">
+                <li>Involved in installation & configuration of the Microsoft Office SharePoint Server 2010/2013 farms and service applications through PowerShell.</li>
+                <li>Migrated SharePoint 2013 to Office 365.</li>
+                <li>Testing SharePoint applications including script preparation and execution.</li>
+              </ul>
+              <h3>System Engineer</h3>
+              <p>
+                Tata Consultancy Services (KPMG), 2016 -- 2018, Kolkata, India.
+              </p>
+              <ul class="work__list">
+                <li>Installation and configuration of the Microsoft Office SharePoint Server 2007/2013 farms and service applications.</li>
+              </ul>
+              <h3>Assistant System Engineer</h3>
+              <p>
+                Tata Consultancy Services (KPMG), 2012 -- 2016, Kolkata, India.
+              </p>
+              <ul class="work__list">
+                <li>Production deployment and bug fixing.</li>
+                <li>Migration of SharePoint 2007 to SharePoint 2013.</li>
+              </ul>
+              <!--<div class="work__links">
+                <a href="https://nisar.surge.sh" target="_blank" class="link__text">
+                  Visit Site <span>&rarr;</span>
+                </a>
+                <a href="https://github.com/nisarhassan12/portfolio" title="View Source Code" target="_blank">
+                  <img src="./images/github.svg" class="work__code" alt="GitHub">
+                </a>
+              </div>-->
+            </div>
+            <!--<div class="work__image-box">
+              <img src="./images/project-1.png" class="work__image" alt="Project 1" />
+            </div>-->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ***** Research ***** -->
+
+    <section class="work" id="projects">
+      <div class="row">
+        <h2>Research</h2>
+        <div class="work__boxes">
+
+          <!-- Each div with the work__box class is a project. -->
+
+          <div class="work__box">
+            <div class="work__text">
+              <h3>Big Data, AI & NLP</h3>
+              <p>
+                Auburn University, Jan 2020 -- Ongoing, Auburn, AL.
+              </p>
+              <ul class="work__list">
+                <li>Project Annotate: Ad-Hoc Unsupervised Concept Annotation. Information retrieval and Knowledge mining become much easier
+                  if data is categorized and annotated precisely. With the rapid growth of Big-data, it is infeasible to perform manual annotation, as it is slow and expensive. Although the area of text annotation is not in the nascent phase, it has not been well-studied from a user-centric point of view, which is the goal of this project.</li>
+              </ul>
+              <h3>M.E. Thesis</h3>
+              <p>
+                Jadavpur University, 2015 -- 2018, Kolkata, India.
+              </p>
+              <p>
+                Title: ADVANCE APPROACH IN FINDING POINT ORDER ON ELLIPTIC CURVE</li>
+              </p>
+              <ul class="work__list">
+                <li>Research area: Cryptography and Network Security</li>
               </ul>
 
               <!--<div class="work__links">
@@ -98,107 +193,39 @@
               <img src="./images/project-1.png" class="work__image" alt="Project 1" />
             </div>-->
           </div>
+        </div>
+      </div>
+    </section>
 
+    <!-- ***** Publications ***** -->
+    <section class="work" id="publications">
+      <div class="row">
+        <h2>Publications</h2>
+        <div class="work__boxes">
 
-          <div class="work__box" id="projects">
-            <div class="work__text">
-              <h3>Projects</h3>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod,
-                eius.
-              </p>
-              <ul class="work__list">
-                <li>React</li>
-                <li>Next.js</li>
-                <li>Node</li>
-                <li>MongoDB</li>
-              </ul>
-
-              <!--<div class="work__links">
-                <a href="#" class="link__text">
-                  Visit Site <span>&rarr;</span>
-                </a>
-                <a href="#">
-                  <img src="./images/github.svg" class="work__code" title="View Source Code" alt="GitHub">
-                </a>
-              </div>-->
-            </div>
-            <!--<div class="work__image-box">
-              <img src="./images/project-2.png" class="work__image" alt="Project 1" />
-            </div>-->
-          </div>
+          <!-- Each div with the work__box class is a project. -->
 
           <div class="work__box">
             <div class="work__text">
-              <h3>Publications</h3>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod,
-                eius.
-              </p>
               <ul class="work__list">
-                <li>React</li>
-                <li>Next.js</li>
-                <li>Node</li>
-                <li>MongoDB</li>
+                <li>COVID19: Interactive Spatio-Temporal Visualization of COVID-19 Symptoms through Tweet Analysis. In ACM IUI 2021.
+                  Biddut Sarker Bijoy,Syeda Jannatus Saba, <b>Souvika Sarkar</b>,Md Saiful Islam,Sheikh Rabiul Islam,Md. Ruhul Amin and Shubhra Kanti Karmaker.</li>
+                <li>Towards Containing COVID-19 Pandemic by Mining Knowledge from Scientific Literature and Social Media. In ICDATA 2021.
+                  Biddut Sarker Bijoy,Syeda Jannatus Saba, <b>Souvika Sarkar</b>,Md Saiful Islam,Sheikh Rabiul Islam,Md. Ruhul Amin.</li>
               </ul>
 
               <!--<div class="work__links">
-                <a href="#" class="link__text">
+                <a href="https://nisar.surge.sh" target="_blank" class="link__text">
                   Visit Site <span>&rarr;</span>
                 </a>
-                <a href="#">
-                  <img src="./images/github.svg" class="work__code" title="View Source Code" alt="GitHub">
+                <a href="https://github.com/nisarhassan12/portfolio" title="View Source Code" target="_blank">
+                  <img src="./images/github.svg" class="work__code" alt="GitHub">
                 </a>
               </div>-->
             </div>
             <!--<div class="work__image-box">
-              <img src="./images/project-3.png" class="work__image" alt="Project 3" />
+              <img src="./images/project-1.png" class="work__image" alt="Project 1" />
             </div>-->
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ***** Clients ***** -->
-
-    <section class="client" id="clients">
-      <div class="row">
-        <h2>Hobbies</h2>
-        <div class="client__logos">
-          <!-- Add logos of the clients or companies you'have worked with. -->
-          <img src="./images/ronjones.png" class="client__logo" alt="Company 2" />
-          <img src="./images/goldengrid.png" class="client__logo" alt="Company 3" />
-          <img src="./images/bullseye.png" class="client__logo" alt="Company 1" />
-          <img src="./images/mighty-furnitures.png" class="client__logo" alt="Company 1" />
-          <img src="./images/fastlane.png" class="client__logo" alt="Company 3" />
-          <img src="./images/chippy.png" class="client__logo" alt="Company 1" />
-        </div>
-      </div>
-    </section>
-
-    <!-- ***** About ***** -->
-
-    <section class="about" id="about">
-      <div class="row">
-        <h2>Contact</h2>
-        <div class="about__content">
-          <div class="about__text">
-            <!-- Replace the below paragraph with info about yourself -->
-            <p>
-			  I am a grd student majoring in Computer Science and Software Engineering 
-			  at Auburn University under supervision of  Dr. Shubhra Kanti Karmaker (Santu). 
-			  I am interested in Natural Language Processing, Information Retrieval and Data Mining. 
-			  Prior to attending Auburn University, I graduated from Jadavpur University in 
-			  Software Engineering under guidance of Prof. Utpal Ray. Other than my research interest 
-			  I love travelling, cooking, reading and playing board games.
-            </p>
-            <!-- Provide a link to your resume -->
-            <a href="mailto:souvikasarkar@gmail.com" class="btn">souvikasarkar@gmail.com</a>
-          </div>
-
-          <div class="about__photo-container">
-            <!-- Add a nice photo of yourself -->
-            <img class="about__photo" src="./images/souvika-profile.jpg" alt="" />
           </div>
         </div>
       </div>
@@ -207,7 +234,7 @@
 
   <!-- ***** Footer ***** -->
 
-  <footer role="contentinfo" class="footer">
+  <footer role="contentinfo" class="footer" id="contact">
     <div class="row">
       <!-- Update the links to point to your accounts -->
       <ul class="footer__social-links">
@@ -217,22 +244,11 @@
           </a>
         </li>
         <li class="footer__social-link-item">
-          <a href=https://www.linkedin.com/in/nisar-hassan-naqvi-413466199/">
+          <a href=https://www.linkedin.com/in/souvika/">
             <img src="./images/linkedin.svg" title="Link to Linkedin Profile" class="footer__social-image" alt="Linkedin">
           </a>
         </li>
       </ul>
-
-      <!-- If you give me some credit by keeping the below paragraph, will be huge for me 😊 Thanks. -->
-      <p>
-        &copy; 2020 - Template designed & developed by <a href="https://nisar.dev" class="link">Nisar</a>.
-      </p>
-      <div class="footer__github-buttons">
-        <iframe
-          src="https://ghbtns.com/github-btn.html?user=nisarhassan12&repo=portfolio-template&type=watch&count=true"
-          frameborder="0" scrolling="0" width="170" height="20" title="Watch Portfolio Template on GitHub">
-        </iframe>
-      </div>
     </div>
   </footer>
 
