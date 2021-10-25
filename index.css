@@ -132,7 +132,7 @@ h3 {
     line-height: 1;
     font-size: var(--font-size-huge);
     font-weight: 400;
-    height: 10vh;
+    height: 10%;
 }
 
 @media(max-width: 900px) {
@@ -340,6 +340,9 @@ body:not(.user-is-tabbing) a:focus {
     display: flex;
     justify-content: flex-end;
     padding: var(--gutter-normal) 0;
+	width: 66%;
+	background-color: black;
+	position: fixed;
 }
 
 .nav__items {
