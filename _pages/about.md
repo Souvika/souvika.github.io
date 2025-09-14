@@ -20,16 +20,16 @@ Beyond academia, I have extensive industry experience as an IT Analyst at Tata C
 
 News
 ======
-1. Aug 2024 – I joined the School of Computing at Wichita State University as a tenure-track Assistant Professor.
-1. Jul 2024 – Successfully defended my Ph.D. dissertation “Zero-Shot Multi-Label Topic Inference” at Auburn University.
-1. May 2024 – Our paper “Processing Natural Language on Embedded Devices: How Well Do Modern Models Perform?” was accepted at ACM/SPEC International Conference on Performance Engineering (ICPE’24).
-1. Apr 2024 – Recipient of Auburn University’s Outstanding Doctoral Student Award (2024).
-1. Nov 2023 – Our paper “Zero-Shot Multi-Label Topic Inference with Sentence Encoders & LLMs” was accepted at EMNLP 2023.
-1. Oct 2023 – Awarded the 100+ Women Strong Outstanding Departmental Annual Graduate Award (2023).
-1. Jun 2022 – Our paper “Exploring Universal Sentence Encoders for Zero-shot Text Classification” was accepted at AACL-IJCNLP 2022.
-1. May 2022 – Our paper “Ad-Hoc Monitoring of COVID-19 Global Research Trends for Well-Informed Policy Making” was published in ACM Transactions on Intelligent Systems and Technology.
-1. Apr 2022 – Our paper “Concept Annotation from Users Perspective: A New Challenge” was presented at WWW UserNLP 2022.
-1. Mar 2021 – Our paper “COVID19α: Interactive Spatio-Temporal Visualization of COVID-19 Symptoms through Tweet Analysis” was presented at ACM IUI 2021.
-1. Mar 2021 – Our paper “Containing COVID-19 Pandemic by Mining Knowledge from Scientific Literature and Social Media” was accepted at ICDATA 2021.
-1. Aug 2019 – Started my Ph.D. in Computer Science at Auburn University.
-1. Dec 2018 – Completed M.E. in Software Engineering at Jadavpur University.
+1. [Aug 2024] – I joined the School of Computing at Wichita State University as a tenure-track Assistant Professor.
+1. [Jul 2024] – Successfully defended my Ph.D. dissertation “Zero-Shot Multi-Label Topic Inference” at Auburn University.
+1. [May 2024] – Our paper “Processing Natural Language on Embedded Devices: How Well Do Modern Models Perform?” was accepted at ACM/SPEC International Conference on Performance Engineering (ICPE’24).
+1. [Apr 2024] – Recipient of Auburn University’s Outstanding Doctoral Student Award (2024).
+1. [Nov 2023] – Our paper “Zero-Shot Multi-Label Topic Inference with Sentence Encoders & LLMs” was accepted at EMNLP 2023.
+1. [Oct 2023] – Awarded the 100+ Women Strong Outstanding Departmental Annual Graduate Award (2023).
+1. [Jun 2022] – Our paper “Exploring Universal Sentence Encoders for Zero-shot Text Classification” was accepted at AACL-IJCNLP 2022.
+1. [May 2022] – Our paper “Ad-Hoc Monitoring of COVID-19 Global Research Trends for Well-Informed Policy Making” was published in ACM Transactions on Intelligent Systems and Technology.
+1. [Apr 2022] – Our paper “Concept Annotation from Users Perspective: A New Challenge” was presented at WWW UserNLP 2022.
+1. [Mar 2021] – Our paper “COVID19α: Interactive Spatio-Temporal Visualization of COVID-19 Symptoms through Tweet Analysis” was presented at ACM IUI 2021.
+1. [Mar 2021] – Our paper “Containing COVID-19 Pandemic by Mining Knowledge from Scientific Literature and Social Media” was accepted at ICDATA 2021.
+1. [Aug 2019] – Started my Ph.D. in Computer Science at Auburn University.
+1. [Dec 2018] – Completed M.E. in Software Engineering at Jadavpur University.
