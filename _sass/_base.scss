@@ -306,6 +306,53 @@ nav {
 }
 
 /*
+   Custom styles for News section dates
+   ========================================================================== */
+
+.news-date {
+  font-weight: 600;
+  color: #0d436d; /* keeps your strong professional blue */
+  font-size: 0.95em;
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: 1px;
+  display: inline-block;
+  min-width: 90px;
+  margin-right: 10px;
+  text-transform: uppercase;
+  background-color: #f7fafc; /* softer, near-white background */
+  padding: 3px 6px;
+  border-radius: 4px; /* subtle rounded tag */
+}
+
+/*
+   Custom styles for section headers (Background, Interests, News, etc.)
+   ========================================================================== */
+
+.section-header {
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
+  font-size: 1.3em;
+  color: #2a6592; /* a professional muted blue */
+  margin: 2.5em 0 1em 0;
+  padding-bottom: 0.4em;
+  border-bottom: 3px solid #d1e3f0; /* soft accent underline */
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+
+.main-title {
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
+  font-size: 1.8em;
+  color: #2a6592; /* a professional muted blue */
+  margin: 0 0 1.5em 0;
+  padding-bottom: 0.5em;
+  border-bottom: 3px solid #d1e3f0; /* soft accent underline */
+  text-transform: none;
+  letter-spacing: 0.5px;
+}
+
+/*
    Global animation transition
    ========================================================================== */
 
