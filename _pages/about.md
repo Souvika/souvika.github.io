@@ -11,9 +11,7 @@ redirect_from:
 
 I am an Assistant Professor in the School of Computing at Wichita State University, where I lead the Accessible AI (A²I) Lab. My research focuses on making Artificial Intelligence (AI) and Data Science more accessible, usable, and impactful beyond highly technical communities. I work at the intersection of Natural Language Processing (NLP), Information Retrieval (IR), and AI, developing models that enable machines to understand human language with deep semantic and contextual awareness. By exploring how intent, opinion, and emotion are expressed in language, my goal is to build AI systems that are trustworthy, scalable, and beneficial for real-world applications.
 
-
-<div class="section-header">Background</div>
-Before joining Wichita State, I earned my Ph.D. in Computer Science from Auburn University, where I was fortunate to be advised by Dr. Shubhra Kanti Karmaker ("Santu"). During my time at Auburn, I was honored with the 100+ Women Strong Outstanding Departmental Annual Graduate Award and Auburn University's Outstanding Doctoral Student Award. Prior to that, I completed my Master's in Software Engineering from Jadavpur University.
+Before joining Wichita State, I earned my Ph.D. in Computer Science from Auburn University, where I was fortunate to be advised by Dr. Shubhra Kanti Karmaker (“Santu”). During my time at Auburn, I was honored with the 100+ Women Strong Outstanding Departmental Annual Graduate Award and Auburn University’s Outstanding Doctoral Student Award. Prior to that, I completed my Master’s in Software Engineering from Jadavpur University.
 
 <div class="section-header">Interests</div>
 Beyond academia, I have extensive industry experience as an IT Analyst at Tata Consultancy Services (TCS), where I worked on Microsoft Office SharePoint server management, Office 365 migrations, and workflow automation to enhance enterprise processes.
