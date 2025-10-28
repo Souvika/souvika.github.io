@@ -22,9 +22,9 @@ repository               : "Souvika/souvika.github.io"
 author:
   # Biographic information
   avatar           : "profile_v2.jpg"
-  name             : "Souvika Sarkar"
-  pronouns         : "she/her (Sou-vika)"
-  bio              : "Gymnastic enthusiast in Academia"
+  #name             : "Souvika Sarkar"
+  #pronouns         : "she/her (Sou-vika)"
+  #bio              : "Gymnastic enthusiast in Academia"
   location         : "Wichita, Kansas"
   employer         : "Wichita State University"
   uri              : # URL
