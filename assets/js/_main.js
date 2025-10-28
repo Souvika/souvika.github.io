@@ -61,36 +61,4 @@ $(document).ready(function(){
     closeOnContentClick: true,
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
-
-  // Dark mode toggle
-  const themeToggle = document.getElementById('theme-toggle');
-  const themeIcon = themeToggle.querySelector('.theme-toggle__icon');
-  
-  // Check for saved theme preference or default to light mode
-  const currentTheme = localStorage.getItem('theme') || 'light';
-  
-  if (currentTheme === 'dark') {
-    document.documentElement.setAttribute('data-theme', 'dark');
-    themeIcon.textContent = '🌙';
-  } else {
-    document.documentElement.removeAttribute('data-theme');
-    themeIcon.textContent = '☀️';
-  }
-  
-  themeToggle.addEventListener('click', function() {
-    const currentTheme = document.documentElement.getAttribute('data-theme');
-    
-    if (currentTheme === 'dark') {
-      // Switch to light mode
-      document.documentElement.removeAttribute('data-theme');
-      localStorage.setItem('theme', 'light');
-      themeIcon.textContent = '☀️';
-    } else {
-      // Switch to dark mode
-      document.documentElement.setAttribute('data-theme', 'dark');
-      localStorage.setItem('theme', 'dark');
-      themeIcon.textContent = '🌙';
-    }
-  });
-
 });
