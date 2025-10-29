@@ -185,7 +185,8 @@
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: #54202D;
+      font-size: 22px;
     }
   }
 
@@ -229,9 +230,12 @@
       // Add custom styling for the site title link
       // Example: font-size: 1.2rem;
       // Example: font-weight: bold;
-      color: #632839;
-      font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+      color: #88344b;
+      font-family: 'Roboto', Helvetica, Arial, sans-serif;
       letter-spacing: 1px;
+      display: block;
+      font-size: 20px;
+      font-weight: 300;
     }
 
     a {
