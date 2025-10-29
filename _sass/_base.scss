@@ -313,7 +313,7 @@ nav {
 .news-date {
   font-weight: 600;
   color: #301920;
-  font-size: 0.8em;
+  font-size: 0.8rem;
   font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
   letter-spacing: 0.2px;
   min-width: 90px;
@@ -359,10 +359,10 @@ nav {
 }
 
 .news-content {
-  font-family: 'Merriweather', serif;
-  font-size: 1rem;
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.8rem;
   line-height: 1.4;
-  color: #6a2f2f;
+  color: #4b2222;
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
