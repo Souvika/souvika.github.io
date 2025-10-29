@@ -17,18 +17,59 @@ Before joining Wichita State, I earned my Ph.D. in Computer Science from Auburn 
 Beyond academia, I have extensive industry experience as an IT Analyst at Tata Consultancy Services (TCS), where I worked on Microsoft Office SharePoint server management, Office 365 migrations, and workflow automation to enhance enterprise processes.
 
 <div class="section-header">News</div>
-<ul style="list-style: none; padding-left: 0; margin-left: 0;">
-    <li><span class="news-date">Aug 2024</span><span class="news-content"> – I joined the School of Computing at Wichita State University as a tenure-track Assistant Professor.</span></li>
-    <li><span class="news-date">Jul 2024</span><span class="news-content"> – Successfully defended my Ph.D. dissertation "Zero-Shot Multi-Label Topic Inference" at Auburn University.</span></li>
-    <li><span class="news-date">May 2024</span><span class="news-content"> – Our paper "Processing Natural Language on Embedded Devices: How Well Do Modern Models Perform?" was accepted at ACM/SPEC International Conference on Performance Engineering (ICPE'24).</span></li>
-    <li><span class="news-date">Apr 2024</span><span class="news-content"> – Recipient of Auburn University's Outstanding Doctoral Student Award (2024).</span></li>
-    <li><span class="news-date">Nov 2023</span><span class="news-content"> – Our paper "Zero-Shot Multi-Label Topic Inference with Sentence Encoders & LLMs" was accepted at EMNLP 2023.</span></li>
-    <li><span class="news-date">Oct 2023</span><span class="news-content"> – Awarded the 100+ Women Strong Outstanding Departmental Annual Graduate Award (2023).</span></li>
-    <li><span class="news-date">Jun 2022</span><span class="news-content"> – Our paper "Exploring Universal Sentence Encoders for Zero-shot Text Classification" was accepted at AACL-IJCNLP 2022.</span></li>
-    <li><span class="news-date">May 2022</span><span class="news-content"> – Our paper "Ad-Hoc Monitoring of COVID-19 Global Research Trends for Well-Informed Policy Making" was published in ACM Transactions on Intelligent Systems and Technology.</span></li>
-    <li><span class="news-date">Apr 2022</span><span class="news-content"> – Our paper "Concept Annotation from Users Perspective: A New Challenge" was presented at WWW UserNLP 2022.</span></li>
-    <li><span class="news-date">Mar 2021</span><span class="news-content"> – Our paper "COVID19α: Interactive Spatio-Temporal Visualization of COVID-19 Symptoms through Tweet Analysis" was presented at ACM IUI 2021.</span></li>
-    <li><span class="news-date">Mar 2021</span><span class="news-content"> – Our paper "Containing COVID-19 Pandemic by Mining Knowledge from Scientific Literature and Social Media" was accepted at ICDATA 2021.</span></li>
-    <li><span class="news-date">Aug 2019</span><span class="news-content"> – Started my Ph.D. in Computer Science at Auburn University.</span></li>
-    <li><span class="news-date">Dec 2018</span><span class="news-content"> – Completed M.E. in Software Engineering at Jadavpur University.</span></li>
-</ul>
+<table style="width: 100%; border-collapse: collapse; text-align: left;">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; padding: 6px 8px; width: 110px;"><span class="news-date">Aug 2024</span></td>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-content"> I joined the School of Computing at Wichita State University as a tenure-track Assistant Professor.</span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-date">Jul 2024</span></td>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-content"> Successfully defended my Ph.D. dissertation "Zero-Shot Multi-Label Topic Inference" at Auburn University.</span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-date">May 2024</span></td>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-content"> Our paper "Processing Natural Language on Embedded Devices: How Well Do Modern Models Perform?" was accepted at ACM/SPEC International Conference on Performance Engineering (ICPE'24).</span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-date">Apr 2024</span></td>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-content"> Recipient of Auburn University's Outstanding Doctoral Student Award (2024).</span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-date">Nov 2023</span></td>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-content"> Our paper "Zero-Shot Multi-Label Topic Inference with Sentence Encoders & LLMs" was accepted at EMNLP 2023.</span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-date">Oct 2023</span></td>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-content"> Awarded the 100+ Women Strong Outstanding Departmental Annual Graduate Award (2023).</span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-date">Jun 2022</span></td>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-content"> Our paper "Exploring Universal Sentence Encoders for Zero-shot Text Classification" was accepted at AACL-IJCNLP 2022.</span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-date">May 2022</span></td>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-content"> Our paper "Ad-Hoc Monitoring of COVID-19 Global Research Trends for Well-Informed Policy Making" was published in ACM Transactions on Intelligent Systems and Technology.</span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-date">Apr 2022</span></td>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-content"> Our paper "Concept Annotation from Users Perspective: A New Challenge" was presented at WWW UserNLP 2022.</span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-date">Mar 2021</span></td>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-content"> Our paper "COVID19α: Interactive Spatio-Temporal Visualization of COVID-19 Symptoms through Tweet Analysis" was presented at ACM IUI 2021.</span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-date">Mar 2021</span></td>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-content"> Our paper "Containing COVID-19 Pandemic by Mining Knowledge from Scientific Literature and Social Media" was accepted at ICDATA 2021.</span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-date">Aug 2019</span></td>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-content"> Started my Ph.D. in Computer Science at Auburn University.</span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-date">Dec 2018</span></td>
+      <td style="vertical-align: top; padding: 6px 8px;"><span class="news-content"> Completed M.E. in Software Engineering at Jadavpur University.</span></td>
+    </tr>
+  </tbody>
+  </table>

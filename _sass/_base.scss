@@ -312,17 +312,16 @@ nav {
 
 .news-date {
   font-weight: 600;
-  color: #0d436d; /* keeps your strong professional blue */
-  font-size: 0.95em;
+  color: #301920;
+  font-size: 0.8em;
   font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
-  letter-spacing: 1px;
-  display: inline-block;
+  letter-spacing: 0.2px;
   min-width: 90px;
-  margin-right: 10px;
+  margin-right: 0px;
   text-transform: uppercase;
-  background-color: #f7fafc; /* softer, near-white background */
+  background-color: #ffebebcf;
   padding: 3px 6px;
-  border-radius: 4px; /* subtle rounded tag */
+  border-radius: 4px;
 }
 
 /*
@@ -363,7 +362,7 @@ nav {
   font-family: 'Merriweather', serif;
   font-size: 1rem;
   line-height: 1.4;
-  color: #321616;
+  color: #6a2f2f;
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
