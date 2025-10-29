@@ -331,12 +331,13 @@ nav {
 
 .section-header {
   font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
-  font-weight: 150;
-  font-size: 1.0rem;
-  color: #413e3e; /* a professional muted blue */
+  font-weight: 250;
+  font-size: 1.8rem;
+  color: #413e3e;
   margin: 0 0 1em 0;
+  padding-top: 0.2em;
   padding-bottom: 0.2em;
-  border-bottom: 0.5px solid #301920; /* soft accent underline */
+  border-bottom: 0.5px solid #301920;
   text-transform: none;
   letter-spacing: 2.5px;
 }
