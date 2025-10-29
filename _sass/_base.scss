@@ -345,12 +345,18 @@ nav {
   font-weight: 350;
   font-size: 2.0rem;
   color: #413e3e; /* a professional muted blue */
-  margin: 0 0 1.5em 0;
-  padding-bottom: 0.5em;
+  margin: 0 0 1em 0;
+  padding-bottom: 0.2em;
   border-bottom: 0.5px solid #301920; /* soft accent underline */
   text-transform: none;
   letter-spacing: 2.5px;
 }
+
+.hyperlink {
+  color: #ee6c6c;
+  text-decoration: none;
+}
+
 
 /*
    Global animation transition
