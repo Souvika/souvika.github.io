@@ -225,6 +225,15 @@
       }
     }
 
+    a.nav-top {
+      // Add custom styling for the site title link
+      // Example: font-size: 1.2rem;
+      // Example: font-weight: bold;
+      color: #632839;
+      font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+      letter-spacing: 1px;
+    }
+
     a {
       position: relative;
 
