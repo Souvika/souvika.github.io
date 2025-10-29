@@ -359,6 +359,15 @@ nav {
   text-decoration: none;
 }
 
+.news-content {
+  font-family: 'Merriweather', serif;
+  font-size: 1rem;
+  line-height: 1.4;
+  color: #321616;
+  -webkit-transition: $global-transition;
+  transition: $global-transition;
+}
+
 /*
    Global animation transition
    ========================================================================== */
