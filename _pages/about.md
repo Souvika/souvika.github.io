@@ -17,7 +17,7 @@ Before joining Wichita State, I earned my Ph.D. in Computer Science from Auburn 
 Beyond academia, I have extensive industry experience as an IT Analyst at Tata Consultancy Services (TCS), where I worked on Microsoft Office SharePoint server management, Office 365 migrations, and workflow automation to enhance enterprise processes.
 
 <div class="section-header">News</div>
-<ul>
+<ul style="list-style: none; padding-left: 0; margin-left: 0;">
     <li><span class="news-date">Aug 2024</span> – I joined the School of Computing at Wichita State University as a tenure-track Assistant Professor.</li>
     <li><span class="news-date">Jul 2024</span> – Successfully defended my Ph.D. dissertation "Zero-Shot Multi-Label Topic Inference" at Auburn University.</li>
     <li><span class="news-date">May 2024</span> – Our paper "Processing Natural Language on Embedded Devices: How Well Do Modern Models Perform?" was accepted at ACM/SPEC International Conference on Performance Engineering (ICPE'24).</li>
