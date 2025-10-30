@@ -1,9 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "COVID19α [2021]"
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'COVID19α: Interactive Spatio-Temporal Visualization of COVID-19 Symptoms through Tweet Analysis'
+excerpt: 'Interactive Spatio-Temporal Visualization of COVID-19 Symptoms through Tweet Analysis'
 date: 2021-10-01
 venue: 'ACM IUI'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
