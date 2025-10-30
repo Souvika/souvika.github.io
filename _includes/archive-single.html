@@ -40,7 +40,7 @@
 
 
 
-    <table style="width: 100%; border-collapse: collapse; text-align: left; border: none;"></table>
+    <table style="width: 100%; border-collapse: collapse; text-align: left; border: none;">
       <tbody>
         <tr style="border: none;">
             <td style="vertical-align: top; padding: 6px 8px; width: 110px; border: none;"><span class="news-date">{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</span></td>
@@ -48,6 +48,7 @@
             <td style="vertical-align: top; padding: 6px 8px; border: none;"><span class="news-content"></span>{{ post.citation }}</td>
         </tr>
       </tbody>
+    </table>
     <!--{% if post.collection == 'teaching' %}
     <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'publications' %}
