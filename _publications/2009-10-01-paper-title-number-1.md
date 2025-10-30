@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Interactive Spatio-Temporal Visualization of COVID-19 Symptoms through Tweet Analysis'
 date: 2021-10-01
+year: 2021
 venue: 'ACM IUI'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
