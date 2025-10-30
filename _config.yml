@@ -82,6 +82,8 @@ publication_category:
     title: 'Journal Articles'
   peer:
     title: 'Peer Reviewed Workshop Papers'
+  arxiv:
+    title: 'Arxiv Pre-prints'
 
 
 # Site Settings
