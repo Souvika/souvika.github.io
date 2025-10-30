@@ -1,5 +1,5 @@
 ---
-title: "COVID19α [2021]"
+title: "ICDATA [2021]"
 collection: publications
 category: conferences
 permalink: /publication/ICDATA-2021
