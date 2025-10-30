@@ -2,9 +2,9 @@
 title: "COVID19α [2021]"
 collection: publications
 category: conferences
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/ACM-IUI-2021
 excerpt: 'COVID19α: Interactive Spatio-Temporal Visualization of COVID-19 Symptoms through Tweet Analysis'
-date: 2021-10-01
+date: 2021-01-01
 year: 2021
 venue: 'ACM IUI'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
