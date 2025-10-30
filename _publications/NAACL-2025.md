@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/NAACL-2025.md
 excerpt: 'LLMs as Meta-Reviewers’ Assistants: A Case Study.'
-date: 2022-01-01
-year: 2022
+date: 2025-01-01
+year: 2025
 venue: 'NAACL'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
