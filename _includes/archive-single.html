@@ -40,7 +40,7 @@
 
 
     {% if post.collection == 'teaching' %}
-      <h2 class="section-header">{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</h2>
+      <h2 class="section-header"><span class="teaching-header">{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</span></h2>
     {% elsif post.collection == 'publications' %}
     <table style="width: calc(100% + 400px); border-collapse: collapse; text-align: left; border: none;">
       <tbody>
