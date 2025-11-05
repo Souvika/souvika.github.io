@@ -381,6 +381,16 @@ nav {
   transition: $global-transition;
 }
 
+.news-content-teaching {
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  color: #4b2222;
+  -webkit-transition: $global-transition;
+  transition: $global-transition;
+  font-weight: 200;
+}
+
 .teaching-header{
   font-size: 1rem;
 }
