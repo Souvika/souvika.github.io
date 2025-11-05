@@ -41,6 +41,7 @@
     {% if post.collection == 'lab' %}
         <h2 class="section-header"><span class="teaching-header">A²I Lab</span></h2>
         <span class="news-content-teaching">At A²I Lab, I work closely with students and collaborators to bridge the gap between AI research and real-world usability, striving to make AI more inclusive, explainable, and adaptable across different domains.</span>
+        <h2 class="section-header"><span class="teaching-header">Members</span></h2>
     {% elsif post.collection == 'teaching' %}
       <h2 class="section-header"><span class="teaching-header">{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</span></h2>
       {% for course in post.courses %}
