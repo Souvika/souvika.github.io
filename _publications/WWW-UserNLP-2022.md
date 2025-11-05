@@ -7,8 +7,7 @@ excerpt: 'Concept Annotation from Users Perspective: A New Challenge'
 date: 2022-01-01
 year: 2022
 venue: 'WWW UserNLP'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/publications/Annotate.pdf'
 citation: 'Souvika Sarkar„ Shubhra Kanti Karmaker.'
 ---
 

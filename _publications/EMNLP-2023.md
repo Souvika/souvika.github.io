@@ -7,8 +7,6 @@ excerpt: 'Evaluation of Bangla Word Analogies.'
 date: 2023-01-01
 year: 2023
 venue: 'EMNLP'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: ' Mousumi Akter, Souvika Sarkar, Shubhra Kanti Karmaker Santu.'
 ---
 

@@ -7,8 +7,6 @@ excerpt: 'Pitfalls of Evaluating Language Models with Open Benchmarks.'
 date: 2025-01-01
 year: 2025
 venue: 'arxiv'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Md Najib Hasan, Md Fakhruddin Babar, Souvika Sarkar.'
 ---
 

@@ -7,8 +7,6 @@ excerpt: 'Benchmarking LLMs on the Semantic Overlap Summarization Task.'
 date: 2022-01-01
 year: 2022
 venue: 'EMNLP'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'John Salvador, Naman Bansal, Mousumi Akter, Souvika Sarkar, Anupam Das, Shubhra Kanti Karmaker Santu.'
 ---
 

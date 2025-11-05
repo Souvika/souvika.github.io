@@ -7,8 +7,6 @@ excerpt: 'COVID19α: Interactive Spatio-Temporal Visualization of COVID-19 Sympt
 date: 2021-01-01
 year: 2021
 venue: 'ACM IUI'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Biddut Sarker Bijoy, Syeda Jannatus Saba, Souvika Sarkar , Md Saiful Islam, Sheikh Rabiul Islam, Md. Ruhul Amin and Shubhra Kanti Karmaker.'
 ---
 

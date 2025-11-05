@@ -7,8 +7,6 @@ excerpt: 'LLMs as Meta-Reviewers’ Assistants: A Case Study.'
 date: 2025-01-01
 year: 2025
 venue: 'NAACL'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Eftekhar Hossain, Souvika Sarkar, Shubhra Kanti Karmaker Santu.'
 ---
 

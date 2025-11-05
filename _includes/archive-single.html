@@ -52,7 +52,15 @@
       <tbody>
         <tr style="border: none;">
           <td style="vertical-align: top; padding: 6px 8px; width: 7.2rem; border: none;"><span class="news-date">{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</span></td>
-          <td style="vertical-align: top; padding: 6px 8px; border: none;"><span class="news-content"></span>{{ post.excerpt }} <br> {{ post.citation }} </td>
+          <td style="vertical-align: top; padding: 6px 8px; border: none;">
+              <span class="news-content"></span>{{ post.excerpt }} <br/>
+              {{ post.citation }} <br/>
+              {% if post.paperurl %}
+              <p><a href=" {{ post.paperurl }} " class="hyperlink">Download Paper</a></p>
+              {% elsif post.slidesurl %}
+              | <p><a href="{{ post.slidesurl }}" class="hyperlink">Download Slides</a></p>
+              {% endif %}
+          </td>
         </tr>
       </tbody>
     </table>

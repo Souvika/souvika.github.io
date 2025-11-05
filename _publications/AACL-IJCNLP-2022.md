@@ -7,8 +7,6 @@ excerpt: 'Exploring Universal Sentence Encoders for Zero-shot Text Classificatio
 date: 2022-01-01
 year: 2022
 venue: 'AACL-IJCNLP'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Souvika Sarkar, Dongji Feng, Shubhra Kanti Karmaker Santu.'
 ---
 

@@ -7,8 +7,6 @@ excerpt: 'Containing COVID-19 Pandemic by Mining Knowledge from Scientific Liter
 date: 2021-01-01
 year: 2021
 venue: 'ICDATA'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Biddut Bijoy, Syeda Saba, Souvika Sarkar, Md Islam, Sheikh Islam, Md Amin.'
 ---
 

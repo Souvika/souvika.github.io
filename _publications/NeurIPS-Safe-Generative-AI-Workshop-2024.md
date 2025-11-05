@@ -7,8 +7,6 @@ excerpt: 'Investigating Annotator Bias in Large Language Models for Hate Speech 
 date: 2024-01-01
 year: 2024
 venue: 'NeurIPS Safe Generative AI Workshop'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Amit Das, Zheng Zhang, Najib Hasan, Souvika Sarkar.'
 ---
 
