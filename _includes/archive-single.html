@@ -38,8 +38,9 @@
     <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %} -->
 
-
-    {% if post.collection == 'teaching' %}
+    {% if post.collection == 'lab' %}
+        <h2 class="section-header"><span class="teaching-header">A²I Lab</span></h2>
+    {% elsif post.collection == 'teaching' %}
       <h2 class="section-header"><span class="teaching-header">{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</span></h2>
       {% for course in post.courses %}
         <span class="news-content-teaching">{{ course }}</span><br/>
