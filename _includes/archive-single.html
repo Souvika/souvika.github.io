@@ -40,21 +40,7 @@
 
 
     {% if post.collection == 'teaching' %}
-    <table style="width: calc(100% + 400px); border-collapse: collapse; text-align: left; border: none;">
-      <tbody>
-        <tr style="border: none;">
-            <td style="vertical-align: top; padding: 6px 8px; width: 7.2rem; border: none;"><span class="news-date">{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</span></td>
-            <td style="vertical-align: top; padding: 6px 8px; border: none;">
-                <ul>
-                    <li><span class="news-content"></span>{{ post.course1 }}</li>
-                    <li><span class="news-content"></span>{{ post.course2 }}</li>
-                    <li><span class="news-content"></span>{{ post.course3 }}</li>
-                    <li><span class="news-content"></span>{{ post.course4 }}</li>
-                </ul>
-            </td>
-        </tr>
-      </tbody>
-    </table>
+      <h2 class="section-header">{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</h2>
     {% elsif post.collection == 'publications' %}
     <table style="width: calc(100% + 400px); border-collapse: collapse; text-align: left; border: none;">
       <tbody>
