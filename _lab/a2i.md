@@ -1,8 +1,8 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
+title: "A2I Lab"
+collection: lab
 type: "Workshop"
-permalink: /teaching/auburn-teaching
+permalink: /lab/a2i
 venue: "Auburn University (August 2019 - July 2024)"
 date: 2019-01-01
 location: "Auburn, Alabama"
