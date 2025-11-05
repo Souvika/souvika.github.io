@@ -38,7 +38,7 @@ author:
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Souvika-Sarkar-2"
-  DBLP             : "https://dblp.dagstuhl.de/pid/290/4003.html"
+  dblp             : "https://dblp.dagstuhl.de/pid/290/4003.html"
   scopus           : # URL
 
   # Repositories and software development
