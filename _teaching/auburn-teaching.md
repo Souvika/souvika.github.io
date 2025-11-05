@@ -8,7 +8,16 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<ul>
+<li>Personal Computer Applications</li>
+<li>Fundamentals of Computing II </li>
+<li>Advanced Computer and Network Security </li>
+<li>Natural Language Processing </li>
+<li>Information Retrieval </li>
+<li>Machine Learning </li>
+<li>Explainable Artificial Intelligence </li>
+<li>Computational Biology </li>
+</ul>
 
 Heading 1
 ======
