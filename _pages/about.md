@@ -14,7 +14,7 @@ I am an Assistant Professor in the School of Computing at Wichita State Universi
 Before joining Wichita State, I earned my Ph.D. in Computer Science from Auburn University, where I was fortunate to be advised by <a href="https://karmake2.github.io/" class="hyperlink"> Dr. Shubhra Kanti Karmaker (“Santu”) </a>. During my time at Auburn, I was honored with the 100+ Women Strong Outstanding Departmental Annual Graduate Award and Auburn University’s Outstanding Doctoral Student Award. Prior to that, I completed my Master’s in Software Engineering from Jadavpur University.
 
 <div class="section-header">Beyond Academia</div>
-Beyond academia, I have extensive industry experience as an IT Analyst at Tata Consultancy Services (TCS), where I worked on Microsoft Office SharePoint server management, Office 365 migrations, and workflow automation to enhance enterprise processes.
+I have extensive industry experience as an IT Analyst at Tata Consultancy Services (TCS), where I worked on Microsoft Office SharePoint server management, Office 365 migrations, and workflow automation to enhance enterprise processes.
 
 <div class="section-header">News</div>
 <table style="width: 100%; border-collapse: collapse; text-align: left; border: none;">
