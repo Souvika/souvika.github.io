@@ -14,7 +14,7 @@ redirect_from:
 **Assistant Professor, School of Computing**  
 Wichita State University, Kansas, USA  
 📧 souvika.sarkar@wichita.edu | 📧 souvikasarkar@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/souvika) | 🔗 [Google Scholar](https://google.scholar.com/souvika)  
+[LinkedIn](https://linkedin.com/in/souvika) | [Google Scholar](https://google.scholar.com/souvika)  
 📞 +1 631-992-8566
 
 ---
@@ -23,7 +23,7 @@ Wichita State University, Kansas, USA
 
 **Assistant Professor**  
 *School of Computing, Wichita State University, Kansas, United States*  
-📅 Aug 2024 – Present
+ Aug 2024 – Present
 
 ---
 
@@ -31,18 +31,18 @@ Wichita State University, Kansas, USA
 
 - **Ph.D., Computer Science and Software Engineering**  
   *Auburn University, Alabama, USA*  
-  📅 Aug 2019 – Jul 2024
+   Aug 2019 – Jul 2024
     - Advisor: Prof. Shubhra Kanti Karmaker
     - Committee: Prof. Anh Nguyen, Prof. Gerry Dozier, Prof. Asish Gupta
     - Thesis: *Zero-Shot Multi-Label Topic Inference*
 
 - **M.E., Software Engineering**  
   *Jadavpur University, West Bengal, India*  
-  📅 Jun 2015 – Dec 2018
+   Jun 2015 – Dec 2018
 
 - **B.Tech., Computer Science and Engineering**  
   *Maulana Abul Kalam Azad University of Technology, West Bengal, India*  
-  📅 Jun 2007 – Jul 2011
+   Jun 2007 – Jul 2011
 
 ---
 
