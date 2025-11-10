@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/auburn-teaching
 venue: "Auburn University (August 2019 - July 2024)"
 date: 2019-01-01
