@@ -63,7 +63,7 @@
           </tbody>
         </table>
     {% elsif post.collection == 'teaching' %}
-      <h2 class="section-header"><span class="teaching-header">{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</span></h2>
+      <h2 class="section-header"><span class="teaching-header">{{ post.venue }}</span></h2>
       {% for course in post.courses %}
         <span class="news-content-teaching">{{ course }}</span><br/>
       {% endfor %}
