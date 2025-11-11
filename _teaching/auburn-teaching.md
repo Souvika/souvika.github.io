@@ -2,13 +2,17 @@
 title: "Teaching experience 2"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/wichita-teaching
-venue: "Wichita State University (August 2024 - Present)"
+permalink: /teaching/auburn-teaching
+venue: "Auburn University (August 2019 - July 2024)"
 date: 2019-01-01
-location: "Wichita, Kansas"
+location: "Auburn, Alabama"
 courses:
-  - "CS770:  Artificial Intelligence (Fall 2024)"
-  - "CS775:  Information Retrieval(Spring 2025, Fall 2025)"
-  - "CS797Y: Natural Language Processing(Spring 2025, Spring 2026)"
-  - "CS400:  Data Structure(Spring 2026)"
+  - "Personal Computer Applications"
+  - "Fundamentals of Computing II"
+  - "Advanced Computer and Network Security"
+  - "Natural Language Processing"
+  - "Information Retrieval"
+  - "Machine Learning"
+  - "Explainable Artificial Intelligence"
+  - "Computational Biology"
 ---
